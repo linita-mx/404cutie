@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Offline</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background-color: var(--love-letter-bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-family: serif;
+    }
+
+    h1 {
+      font-size: clamp(3rem, 8vw, 6rem);
+      font-weight: normal;
+    }
+  </style>
+</head>
+<body>
+  <h1>sorry! something went wrong! &lt;/3</h1>
+</body>
+</htm
